@@ -1,4 +1,4 @@
-package com.sample.blog.jpa_equals_hashcode;
+package com.sample.blog.jpaequalshashcode;
 
 import java.util.HashMap;
 import java.util.Map;
