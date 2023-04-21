@@ -37,6 +37,3 @@ class AnimalRepositoryTest {
         assertThat(animal.equals(findAnimal)).isTrue();
     }
 }
-
-
-

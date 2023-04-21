@@ -20,6 +20,7 @@ class FieldServiceTest {
     @DisplayName("필드 주입 클래스 테스트")
     void fieldServiceTest() {
 //        FieldService fieldService = new FieldService();
+//        fieldService.fieldCaller = new FieldCaller();
         fieldService.call();
     }
 }
